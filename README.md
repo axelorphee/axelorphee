@@ -40,7 +40,8 @@ Git | Maven | ANTLR4 | UML | MVVM | Scrum | AI-assisted Development
 
 | Project | Description | Technologies |
 |---|---|---|
-| FootMaster | Football statistics and Fantasy Football application | Flutter, Node.js, PostgreSQL |
+
+| [FootMaster](https://github.com/axelorphee/footmaster-backend) | Full-stack football statistics and Fantasy Football application | Flutter, Dart, Node.js, Express, PostgreSQL |
 | Fitness App | Android fitness and nutrition application | Kotlin, MVVM, Retrofit |
 | Quiz Application | Multi-layer web application | Java, JSP, PostgreSQL |
 | Mini Compiler | Compiler for a subset of the C language | Java, ANTLR4, x86 |
