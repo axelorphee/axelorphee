@@ -36,17 +36,18 @@ TCP/IP | VLAN | Routing | Cisco Packet Tracer | Linux | Windows Server
 ### Tools & Methodologies
 Git | Maven | ANTLR4 | UML | MVVM | Scrum | AI-assisted Development
 
+
 ## Selected Projects
 
 | Project | Description | Technologies |
 |---|---|---|
-
 | [FootMaster](https://github.com/axelorphee/footmaster-backend) | Full-stack football statistics and Fantasy Football application | Flutter, Dart, Node.js, Express, PostgreSQL |
-|[Fitness App](https://github.com/axelorphee/fitness-android-app) | Android fitness and nutrition application | Kotlin, MVVM, Retrofit |
+| [Fitness App](https://github.com/axelorphee/fitness-android-app) | Android fitness and nutrition application | Kotlin, Java, MVVM, Retrofit, ML Kit |
 | Quiz Application | Multi-layer web application | Java, JSP, PostgreSQL |
 | Mini Compiler | Compiler for a subset of the C language | Java, ANTLR4, x86 |
 | Machine Learning Projects | Classification, clustering and time series forecasting | Python, Scikit-learn |
 | Network Infrastructure | Network design and system administration | Cisco Packet Tracer, Linux, Windows Server |
+
 
 ## Languages
 
